@@ -1,0 +1,6 @@
+.header-container {
+    background-color: darkcyan;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,17 @@
+.post-container {
+    border: 1px solid black;
+    box-shadow: 3px 3px gray;
+    padding: 5px;
+}
+
+#post-header {
+    display:flex;
+    justify-content: space-evenly;
+    padding: 20px
+
+}
+.filteredPost-container {
+    border: 1px solid black;
+    box-shadow: 3px 3px gray;
+    padding: 5px;
+}
